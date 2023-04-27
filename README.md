@@ -1,2 +1,2 @@
 # E-SHOP-se-Stefanem
-https://snykrs.netlify.app/target_blank
+https://snykrs.netlify.app
